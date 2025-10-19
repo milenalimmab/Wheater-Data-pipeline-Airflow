@@ -151,7 +151,4 @@ s3://your-bucket-name/
 - GitHub: [@milenalimmab](https://github.com/milenalimmab)
 - LinkedIn: [Milena Lima](https://www.linkedin.com/in/milenalimma/)
 
-=======
-# Wheater-Data-pipeline-Airflow
-A pipeline that colects wheater data from OpenWeather API, transforms and uploads to AWS S3.
->>>>>>> d7f25e86408dfb6f6db0f2bb96a1bbfbc495854e
+

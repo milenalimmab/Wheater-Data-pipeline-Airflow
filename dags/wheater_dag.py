@@ -2,8 +2,7 @@
 Pipeline DAG Wheather 
 Extrai dados climáticos do OpenWheater API e armazena na AWS S3. 
 
-Autora: Milena
-Inspirado em: 
+Autora: Milena L. 
 2025-10-14
 """
 
